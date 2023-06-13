@@ -14,7 +14,7 @@
  <li>NPM</li>
  <li>Postman</li>
 
-<h3>
+<h3>Functionality  </h3>
   
   <li>React Frontend Connects to a Firebase database and allows CRUD (Create, Read, Update, Delete) operations. </li>
 <li>There are several protected routes that are only available when the user is logged in. </li>
@@ -22,7 +22,7 @@
 <li>Only companies are allowed to the create a task or delete one.</li>
 <li>Students may only update tasks and accept them. </li>
  
-  </h3>
+
 
 
 
