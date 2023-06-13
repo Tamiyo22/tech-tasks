@@ -3,7 +3,7 @@
 
 <h3>
   
-  <li>Connects to a Firebase database and allows CRUD (Create, Read, Update, Delete) operations. </li>
+  <li>React Frontend Connects to a Firebase database and allows CRUD (Create, Read, Update, Delete) operations. </li>
 <li>There are several protected routes that are only available when the user is logged in. </li>
 <li>Two seperate log-ins, one for students and the other for companies.</li>
 <li>Only companies are allowed to the create a task or delete one.</li>
