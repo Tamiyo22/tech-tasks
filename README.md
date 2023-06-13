@@ -1,6 +1,19 @@
 
 <h1> Tech-Task Manager for Tech-Incubator</h1>
 
+<h2>Technologies</h2>
+ <li>JSX</li>
+ <li>React</li>
+ <li>NodeJS</li>
+ <li>ExpressJS</li>
+ <li>Firebase</li>
+ 
+<h2> Tools</h2>
+ <li>Visual Studio</li>
+ <li>Git and GitHub</li>
+ <li>NPM</li>
+ <li>Postman</li>
+
 <h3>
   
   <li>React Frontend Connects to a Firebase database and allows CRUD (Create, Read, Update, Delete) operations. </li>
